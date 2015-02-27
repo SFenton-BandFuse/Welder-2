@@ -1,0 +1,4 @@
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tests\bin\Debug\Chunk Tests.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tests\bin\Debug\Chunk Tests.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tests\obj\Debug\Chunk Tests.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tests\obj\Debug\Chunk Tests.pdb

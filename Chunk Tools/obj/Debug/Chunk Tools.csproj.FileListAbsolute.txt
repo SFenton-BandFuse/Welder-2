@@ -1,0 +1,5 @@
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\bin\Debug\Chunk Tools.dll.config
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\bin\Debug\Chunk Tools.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\bin\Debug\Chunk Tools.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\obj\Debug\Chunk Tools.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\obj\Debug\Chunk Tools.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\MIDI Tools\bin\Debug\MIDI Tools.dll.config
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\MIDI Tools\bin\Debug\MIDI Tools.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\MIDI Tools\bin\Debug\MIDI Tools.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\MIDI Tools\obj\Debug\MIDI Tools.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\MIDI Tools\obj\Debug\MIDI Tools.pdb

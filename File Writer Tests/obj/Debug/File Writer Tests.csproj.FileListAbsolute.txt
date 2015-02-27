@@ -1,0 +1,13 @@
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\File Writer Tests.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\File Writer Tests.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\File Writers.exe
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\Chunk Tools.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\MID2RIF.exe
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\Midi.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\File Writers.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\Chunk Tools.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\MID2RIF.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\bin\Debug\Midi.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\obj\Debug\File Writer Tests.csprojResolveAssemblyReference.cache
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\obj\Debug\File Writer Tests.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writer Tests\obj\Debug\File Writer Tests.pdb

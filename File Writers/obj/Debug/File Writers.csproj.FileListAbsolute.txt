@@ -1,0 +1,11 @@
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\bin\Debug\File Writers.exe
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\bin\Debug\File Writers.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\bin\Debug\Chunk Tools.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\bin\Debug\MID2RIF.exe
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\bin\Debug\Midi.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\bin\Debug\MID2RIF.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\bin\Debug\Chunk Tools.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\bin\Debug\Midi.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\obj\Debug\File Writers.csprojResolveAssemblyReference.cache
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\obj\Debug\File Writers.exe
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\File Writers\obj\Debug\File Writers.pdb

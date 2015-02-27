@@ -1,0 +1,6 @@
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\bin\Release\Chunk Tools.dll.config
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\bin\Release\Chunk Tools.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\bin\Release\Chunk Tools.pdb
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\obj\Release\Chunk Tools.csprojResolveAssemblyReference.cache
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\obj\Release\Chunk Tools.dll
+C:\Users\Stephen Fenton\Documents\Visual Studio 2013\Projects\Welder\Chunk Tools\obj\Release\Chunk Tools.pdb
